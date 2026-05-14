@@ -441,3 +441,124 @@ Say these aloud slowly:
 - I am learning every day.
 
 </details>
+
+<details>
+<summary><strong>Write Numbers as Words</strong></summary>
+
+<br>
+
+# 1. What Does It Mean?
+
+Writing numbers as words means writing numbers using English letters.
+
+### Examples
+
+- 1 → One
+- 5 → Five
+- 10 → Ten
+
+---
+
+# 2. Basic Numbers (0–10)
+
+| Number | Word |
+|--------|------|
+| 0 | Zero |
+| 1 | One |
+| 2 | Two |
+| 3 | Three |
+| 4 | Four |
+| 5 | Five |
+| 6 | Six |
+| 7 | Seven |
+| 8 | Eight |
+| 9 | Nine |
+| 10 | Ten |
+
+---
+
+# 3. Numbers (11–20)
+
+| Number | Word |
+|--------|------|
+| 11 | Eleven |
+| 12 | Twelve |
+| 13 | Thirteen |
+| 14 | Fourteen |
+| 15 | Fifteen |
+| 16 | Sixteen |
+| 17 | Seventeen |
+| 18 | Eighteen |
+| 19 | Nineteen |
+| 20 | Twenty |
+
+---
+
+# 4. Tens
+
+| Number | Word |
+|--------|------|
+| 20 | Twenty |
+| 30 | Thirty |
+| 40 | Forty |
+| 50 | Fifty |
+| 60 | Sixty |
+| 70 | Seventy |
+| 80 | Eighty |
+| 90 | Ninety |
+| 100 | One Hundred |
+
+---
+
+# 5. Pronunciation Practice
+
+| Word | Speak Like |
+|------|-------------|
+| Three | th-ree |
+| Five | faiv |
+| Eight | ait |
+| Eleven | i-lev-un |
+| Twelve | twelv |
+| Twenty | twen-tee |
+| Thirty | thur-tee |
+| Forty | for-tee |
+
+---
+
+# 6. Common Mistakes
+
+❌ Tree  
+✅ Three
+
+---
+
+❌ Fourty  
+✅ Forty
+
+---
+
+❌ Atey  
+✅ Eighty
+
+---
+
+# 7. Bigger Numbers
+
+| Number | Word |
+|--------|------|
+| 25 | Twenty-five |
+| 47 | Forty-seven |
+| 99 | Ninety-nine |
+| 100 | One hundred |
+
+---
+
+# 8. Practice Lines
+
+- I am 18 years old.
+- There are 30 students.
+- She is 21 years old.
+- My number is 7.
+- We have 100 books.
+
+</details>
