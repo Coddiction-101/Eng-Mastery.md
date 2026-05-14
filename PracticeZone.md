@@ -4,6 +4,6 @@
 2. Canada - Canadian
 3. China - Chinese
 4. Korea - Korean
-5. Nepal
+5. Nepal - Nepali
 6. Asia
 7. South Arabia
