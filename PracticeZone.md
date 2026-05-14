@@ -4,7 +4,7 @@
 4. Mr. Sharma *is* 65 years old.
 5. He *is* 12 years old.
 6. She *is* 16.
-7. They _ _ _ 25 years old.
+7. They *are* 25 years old.
 8. We _ _ _ 20.
 9. How _ _ _ 31 years old.
 10. How old _ _ _ you?
