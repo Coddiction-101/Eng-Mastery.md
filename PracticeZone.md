@@ -6,4 +6,4 @@
 4. Korea - Korean
 5. Nepal - Nepali
 6. Asia - Asian
-7. South Arabia - South Arabian
+7. South Arabia - Arab
