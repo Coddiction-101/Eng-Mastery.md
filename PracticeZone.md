@@ -4,4 +4,4 @@
 4. Mr. Sharma _ _ _ 65 years old.
 5. He _ _ _ 12 years old.
 6. She _ _ _ 16.
-7. 
+7. They _ _ _ 25 years old.
