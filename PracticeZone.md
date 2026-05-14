@@ -3,3 +3,4 @@
 3. You are American
 4. They are from China
 5. They are from Italy
+6. I am American
