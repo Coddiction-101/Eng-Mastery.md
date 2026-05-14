@@ -3,7 +3,7 @@
 ### What Will I Learn in This Lesson?
 
 - [x] How to say your age
-- [ ] Using the verb "to be" with Age & Nationalities
+- [x] Using the verb "to be" with Age & Nationalities
 - [ ] How to say - Where are you from?
 - [ ] Numbers & Nationalities
 
