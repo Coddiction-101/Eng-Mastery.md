@@ -1,7 +1,7 @@
 # Write the Nationality
 
 1. India - Indian
-2. Canada
+2. Canada - Canadian
 3. China - Chinese
 4. Korea
 5. Nepal
