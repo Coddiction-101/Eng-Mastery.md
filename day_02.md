@@ -25,7 +25,23 @@ Here:
 
 ---
 
-# 2. “To Be” Verbs
+# 2. Subject Pronouns
+
+These are common subject pronouns used in English:
+
+| Pronoun | Meaning |
+|----------|----------|
+| I | myself |
+| You | another person |
+| He | a male person |
+| She | a female person |
+| It | a thing / animal |
+| We | group including me |
+| They | people / things |
+
+---
+
+# 3. “To Be” Verbs
 
 The basic “to be” verbs are:
 
@@ -33,7 +49,7 @@ The basic “to be” verbs are:
 - is
 - are
 
-They connect the subject with information.
+These verbs change according to the subject.
 
 ---
 
@@ -48,10 +64,10 @@ Subject + To Be + Information
 
 ---
 
-# Usage Table
+# Verb Changes with Subject
 
-| Subject | To Be |
-|----------|--------|
+| Subject | Verb |
+|----------|------|
 | I | am |
 | He / She / It | is |
 | You / We / They | are |
@@ -62,8 +78,9 @@ Subject + To Be + Information
 
 - I am learning English.
 - She is my friend.
-- They are happy.
+- He is busy.
 - We are students.
+- They are happy.
 
 ---
 
@@ -79,6 +96,6 @@ Subject + To Be + Information
 
 - I am ready.
 - You are smart.
-- He is busy.
+- She is kind.
 - We are learning.
 - They are friends.
