@@ -4,7 +4,7 @@
 
 - [x] How to say your age
 - [x] Using the verb "to be" with Age & Nationalities
-- [ ] How to say - Where are you from?
+- [x] How to say - Where are you from?
 - [ ] Numbers & Nationalities
 
 ---
