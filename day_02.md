@@ -106,3 +106,87 @@ Subject + To Be + Information
 - They are friends.
 
 </details>
+
+<details>
+<summary><strong>Talking About Age</strong></summary>
+
+<br>
+
+# 1. Asking Age
+
+### Common Questions
+
+- How old are you?
+- What is your age? *(formal)*
+
+---
+
+# 2. Saying Your Age
+
+### Sentence Formula
+
+Subject + am/is/are + age
+
+### Examples
+
+- I am 18 years old.
+- She is 20 years old.
+- They are 25 years old.
+
+---
+
+# 3. Natural English
+
+People usually say:
+
+- I am 18.
+- He is 21.
+- She is 19.
+
+“years old” is optional in casual English.
+
+---
+
+# 4. Important Rule
+
+Use:
+- am → with I
+- is → with He / She / It
+- are → with You / We / They
+
+---
+
+# 5. Examples
+
+| Subject | Sentence |
+|----------|-----------|
+| I | I am 18 years old. |
+| You | You are 20 years old. |
+| He | He is 25 years old. |
+| She | She is 19 years old. |
+| We | We are 18 years old. |
+| They | They are 30 years old. |
+
+---
+
+# 6. Common Mistakes
+
+❌ I have 18 years.  
+✅ I am 18 years old.
+
+---
+
+❌ My age is 18 years old.  
+✅ I am 18 years old.
+
+---
+
+# 7. Practice Lines
+
+- I am 18 years old.
+- How old are you?
+- She is younger than me.
+- He is 21 years old.
+- We are the same age.
+
+</details>
