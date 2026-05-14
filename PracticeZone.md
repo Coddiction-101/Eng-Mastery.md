@@ -7,4 +7,4 @@
 7. They *are* 25 years old.
 8. We *are* 20.
 9. How _ _ _  31 years old.
-10. How old _ _ _ you?
+10. How old *are* you?
