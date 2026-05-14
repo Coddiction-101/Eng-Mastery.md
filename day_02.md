@@ -564,122 +564,120 @@ Writing numbers as words means writing numbers using English letters.
 </details>
 
 <details>
-<summary><strong>Write Numbers as Words</strong></summary>
+<summary><strong>Where Are You From?</strong></summary>
 
 <br>
 
-# 1. What Does It Mean?
+# 1. Asking About Place or Country
 
-Writing numbers as words means writing numbers using English letters.
+We use these questions to ask where someone comes from.
+
+### Common Questions
+
+- Where are you from?
+- Which city are you from?
+- Which country are you from?
+
+---
+
+# 2. Sentence Formula
+
+Subject + am/is/are + from + place
 
 ### Examples
 
-- 1 → One
-- 5 → Five
-- 10 → Ten
+- I am from India.
+- She is from Delhi.
+- They are from Canada.
 
 ---
 
-# 2. Basic Numbers (0–10)
+# 3. Natural English
 
-| Number | Word |
-|--------|------|
-| 0 | Zero |
-| 1 | One |
-| 2 | Two |
-| 3 | Three |
-| 4 | Four |
-| 5 | Five |
-| 6 | Six |
-| 7 | Seven |
-| 8 | Eight |
-| 9 | Nine |
-| 10 | Ten |
+People usually use contractions while speaking.
+
+### Examples
+
+- I’m from India.
+- He’s from Mumbai.
+- They’re from Bhopal.
 
 ---
 
-# 3. Numbers (11–20)
+# 4. Examples
 
-| Number | Word |
-|--------|------|
-| 11 | Eleven |
-| 12 | Twelve |
-| 13 | Thirteen |
-| 14 | Fourteen |
-| 15 | Fifteen |
-| 16 | Sixteen |
-| 17 | Seventeen |
-| 18 | Eighteen |
-| 19 | Nineteen |
-| 20 | Twenty |
+| Subject | Sentence |
+|----------|-----------|
+| I | I am from India. |
+| You | You are from Delhi. |
+| He | He is from Mumbai. |
+| She | She is from Jaipur. |
+| We | We are from India. |
+| They | They are from Canada. |
 
 ---
 
-# 4. Tens
+# 5. Asking and Answering
 
-| Number | Word |
-|--------|------|
-| 20 | Twenty |
-| 30 | Thirty |
-| 40 | Forty |
-| 50 | Fifty |
-| 60 | Sixty |
-| 70 | Seventy |
-| 80 | Eighty |
-| 90 | Ninety |
-| 100 | One Hundred |
+### Question
+> Where are you from?
+
+### Answers
+> I am from India.  
+> I’m from Bhopal.  
+> We are from Madhya Pradesh.
 
 ---
 
-# 5. Pronunciation Practice
+# 6. Pronunciation Practice
 
-| Word | Speak Like |
-|------|-------------|
-| Three | th-ree |
-| Five | faiv |
-| Eight | ait |
-| Eleven | i-lev-un |
-| Twelve | twelv |
-| Twenty | twen-tee |
-| Thirty | thur-tee |
-| Forty | for-tee |
+| Sentence | Speak Like |
+|----------|-------------|
+| Where are you from? | whair are yoo frum |
+| I am from India. | ai am frum in-dee-uh |
+| I’m from Bhopal. | aim frum bho-paal |
+| He is from Mumbai. | heez frum mum-bai |
 
 ---
 
-# 6. Common Mistakes
+# 7. Common Mistakes
 
-❌ Tree  
-✅ Three
-
----
-
-❌ Fourty  
-✅ Forty
+❌ Where you are from?  
+✅ Where are you from?
 
 ---
 
-❌ Atey  
-✅ Eighty
+❌ I from India.  
+✅ I am from India.
 
 ---
 
-# 7. Bigger Numbers
-
-| Number | Word |
-|--------|------|
-| 25 | Twenty-five |
-| 47 | Forty-seven |
-| 99 | Ninety-nine |
-| 100 | One hundred |
+❌ He from Delhi.  
+✅ He is from Delhi.
 
 ---
 
-# 8. Practice Lines
+# 8. Speaking Practice
 
-- I am 18 years old.
-- There are 30 students.
-- She is 21 years old.
-- My number is 7.
-- We have 100 books.
+Say these aloud slowly:
+
+- Where are you from?
+- I’m from India.
+- She’s from Delhi.
+- We’re from Bhopal.
+- They’re from Canada.
+
+---
+
+# 9. Mini Conversation
+
+### Person A:
+> Hi, where are you from?
+
+### Person B:
+> I’m from India. What about you?
+
+### Person A:
+> I’m from Canada.
 
 </details>
