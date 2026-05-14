@@ -1,4 +1,4 @@
-## Theme: *Greeting and Meeting People*
+## Theme: *Talking about yourself*
 
 ### What Will I Learn in This Lesson?
 
