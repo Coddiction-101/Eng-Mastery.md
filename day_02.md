@@ -4,4 +4,4 @@
 
 - [ ] How to say your age
 - [ ] Using the verb "to be"
-- [x] How to say - Where are you from?
+- [ ] How to say - Where are you from?
