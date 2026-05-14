@@ -6,3 +6,4 @@
 6. She _ _ _ 16.
 7. They _ _ _ 25 years old.
 8. We _ _ _ 20.
+9. How _ _ _ 31 years old.
