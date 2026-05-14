@@ -7,3 +7,4 @@
 7. You are Indian
 8. They are American
 9. You are from China
+10. They are Indian
