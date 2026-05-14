@@ -190,3 +190,112 @@ Use:
 - We are the same age.
 
 </details>
+
+<details>
+<summary><strong>Vocabulary - Numbers</strong></summary>
+
+<br>
+
+# 1. Basic Numbers
+
+| Number | Word |
+|--------|------|
+| 0 | Zero |
+| 1 | One |
+| 2 | Two |
+| 3 | Three |
+| 4 | Four |
+| 5 | Five |
+| 6 | Six |
+| 7 | Seven |
+| 8 | Eight |
+| 9 | Nine |
+| 10 | Ten |
+
+---
+
+# 2. Numbers 11–20
+
+| Number | Word |
+|--------|------|
+| 11 | Eleven |
+| 12 | Twelve |
+| 13 | Thirteen |
+| 14 | Fourteen |
+| 15 | Fifteen |
+| 16 | Sixteen |
+| 17 | Seventeen |
+| 18 | Eighteen |
+| 19 | Nineteen |
+| 20 | Twenty |
+
+---
+
+# 3. Tens
+
+| Number | Word |
+|--------|------|
+| 30 | Thirty |
+| 40 | Forty |
+| 50 | Fifty |
+| 60 | Sixty |
+| 70 | Seventy |
+| 80 | Eighty |
+| 90 | Ninety |
+| 100 | One Hundred |
+
+---
+
+# 4. Pronunciation Tips
+
+| Word | Speak Like |
+|------|-------------|
+| Three | th-ree |
+| Five | faiv |
+| Eight | ait |
+| Eleven | i-lev-un |
+| Twelve | twelv |
+| Twenty | twen-tee |
+| Thirty | thur-tee |
+| Forty | for-tee |
+
+---
+
+# 5. Common Mistakes
+
+❌ Tree  
+✅ Three
+
+---
+
+❌ Fowty  
+✅ Forty
+
+---
+
+❌ Atey  
+✅ Eighty
+
+---
+
+# 6. Practice Reading
+
+- I am 18 years old.
+- She is 21 years old.
+- There are 30 students.
+- He has 100 rupees.
+- My number is 7.
+
+---
+
+# 7. Quick Practice
+
+Say these aloud:
+
+- 13 → Thirteen
+- 30 → Thirty
+- 50 → Fifty
+- 80 → Eighty
+- 100 → One Hundred
+
+</details>
