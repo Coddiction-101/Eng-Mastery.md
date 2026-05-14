@@ -2,7 +2,7 @@
 
 ### What Will I Learn in This Lesson?
 
-- [x] How to greet people naturally in English
+- [x] How to say your age
 - [x] How to introduce yourself using “I am” and “My name is”
 - [x] How to use proper intonation while speaking
 - [x] How to practice clear speaking and sentence structure
