@@ -3,7 +3,7 @@
 3. Seema & Rohan *are* 21 years old.
 4. Mr. Sharma *is* 65 years old.
 5. He *is* 12 years old.
-6. She _ _ _ 16.
+6. She *is* 16.
 7. They _ _ _ 25 years old.
 8. We _ _ _ 20.
 9. How _ _ _ 31 years old.
