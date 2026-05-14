@@ -6,5 +6,5 @@
 6. She *is* 16.
 7. They *are* 25 years old.
 8. We *are* 20.
-9. She _ _ _  31 years old.
+9. She *is*  31 years old.
 10. How old *are* you?
