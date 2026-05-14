@@ -5,3 +5,4 @@
 5. They are from Italy
 6. I am American
 7. You are Indian
+8. They are American
