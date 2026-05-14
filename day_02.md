@@ -5,6 +5,3 @@
 - [x] How to say your age
 - [x] Using the verb "to be"
 - [x] How to say - Where are you from?
-- [x] How to practice clear speaking and sentence structure
-- [x] How to sound more confident in conversations
-- [x] Common greeting phrases used in daily life
