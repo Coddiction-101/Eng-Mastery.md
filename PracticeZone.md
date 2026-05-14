@@ -5,5 +5,5 @@
 3. China - Chinese
 4. Korea - Korean
 5. Nepal - Nepali
-6. Asia
+6. Asia - Asian
 7. South Arabia
