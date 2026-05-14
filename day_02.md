@@ -300,3 +300,144 @@ Say these aloud:
 
 </details>
 
+<details>
+<summary><strong>Pronunciation, Stress, and Syllables</strong></summary>
+
+<br>
+
+# 1. What is Pronunciation?
+
+Pronunciation means speaking words correctly and clearly.
+
+### Example
+- Student
+- Comfortable
+- Pronunciation
+
+Good pronunciation helps people understand you easily.
+
+---
+
+# 2. What is Stress?
+
+Stress means saying one part of a word louder or stronger.
+
+### Example
+
+TA-ble  
+COM-for-ta-ble  
+PRO-nun-ci-a-tion
+
+The capital part = stressed syllable.
+
+---
+
+# 3. What are Syllables?
+
+Syllables are the sound parts of a word.
+
+### Examples
+
+| Word | Syllables |
+|------|------------|
+| Cat | 1 |
+| Table | TA-ble |
+| Student | STU-dent |
+| Comfortable | COMF-ter-bul |
+| Pronunciation | pro-NUN-ci-a-tion |
+
+---
+
+# 4. Why are Syllables Important?
+
+Syllables help you:
+- pronounce words clearly
+- understand word stress
+- speak naturally
+
+---
+
+# 5. Word Stress Examples
+
+| Word | Stress |
+|------|---------|
+| TAble | TA |
+| WINdow | WIN |
+| DOCtor | DOC |
+| COMfortable | COM |
+| VEGetable | VEG |
+| proNUNciation | NUN |
+
+---
+
+# 6. Pronunciation Practice
+
+| Word | Speak Like |
+|------|-------------|
+| Student | styoo-dent |
+| School | skool |
+| Comfortable | kumf-ter-bul |
+| Vegetable | veg-tuh-bul |
+| Wednesday | wenz-day |
+| Pronunciation | pro-nun-see-ay-shun |
+
+---
+
+# 7. Common Mistakes
+
+❌ Iskool  
+✅ School
+
+---
+
+❌ Com-for-ta-ble  
+✅ Comfortable
+
+---
+
+❌ Pro-noun-ciation  
+✅ Pronunciation
+
+---
+
+# 8. Sentence Stress
+
+Important words in a sentence get more stress.
+
+### Example
+
+> I REALLY want to learn English.
+
+Stress on:
+REALLY
+
+---
+
+> She is VERY kind.
+
+Stress on:
+VERY
+
+---
+
+# 9. Speaking Tips
+
+- Speak slowly first
+- Open your mouth clearly
+- Finish the full word
+- Do not rush
+- Focus on syllables and stress
+
+---
+
+# 10. Practice Lines
+
+Say these aloud slowly:
+
+- I want clear English.
+- She is very smart.
+- My pronunciation is improving.
+- Comfortable English speaking takes practice.
+- I am learning every day.
+
+</details>
