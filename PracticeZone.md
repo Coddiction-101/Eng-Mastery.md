@@ -1,6 +1,6 @@
 # Write the Nationality
 
-1. India
+1. India - Indian
 2. Canada
 3. China
 4. Korea
