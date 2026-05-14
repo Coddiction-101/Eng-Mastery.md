@@ -5,6 +5,7 @@
 - [ ] How to say your age
 - [ ] Using the verb "to be"
 - [ ] How to say - Where are you from?
+- [ ] Numbers & Nationalities
 
 ---
 
